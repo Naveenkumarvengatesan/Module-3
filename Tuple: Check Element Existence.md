@@ -10,8 +10,16 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 4. Print the results.
 
 ## 🧾 Program
-Add code here
+~~~
+tuplex = input()
+print("n" in tuplex)
+print("8" in tuplex)
+
+~~~
 
 ## Output
+<img width="1101" height="349" alt="image" src="https://github.com/user-attachments/assets/e95350b3-04a2-4b15-a6c8-0d51e945cb6e" />
+
 
 ## Result
+Thus, the program to check element existence in a tuple using Python was executed successfully.
