@@ -1,6 +1,6 @@
 ~~~
-Developed by:Mohamed Sameem S
-RegisterNumber:212225040242 
+Developed by:Naveen KumarV
+RegisterNumber:212225040277
 ~~~
 
 # 1. List Operations in Python: Sum of List Items
